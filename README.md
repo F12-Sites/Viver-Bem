@@ -1,4 +1,4 @@
- Coordenadora: Thereza Prado Gondim
+# Coordenadora: Thereza Prado Gondim
 
 # Grupo: Phelippe Schnel, Brener, Bruno Marques, Thiago Matheus
 
@@ -15,7 +15,7 @@
     <li>2.1 Contextualização</li>  
     <li>2.2 Descrição</li>  
     <li>2.2.1 Requisitos Funcionais</li>  
-    <li><li>2.2.2 Requisitos não funcionais</li> 
+    <li>2.2.2 Requisitos não funcionais</li> 
     <li>2.3 Arquitetura</li>  
     <li>2.4 Cronograma</li>  
     <li>3 Análise</li>  
